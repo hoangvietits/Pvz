@@ -33,7 +33,7 @@ namespace Pvz
             GameManager.Sprites = new SpriteManager();
 
             timer1 = new System.Windows.Forms.Timer();
-            timer1.Tick += EventHandler(GameLoop);
+            timer1.Tick +=  new EventHandler(GameLoop);
             timer1.Interval = 50;
             timer1.Enabled = true;
             timer1.Start();
@@ -45,7 +45,7 @@ namespace Pvz
             soundPlayer.Play();
         }
 
-        void GameLoop(Object sender, EventArgs e)
+        void GameLoop(Object myObject, EventArgs myEventArgs)
         {
             if (ZombieCount == ZombieTotal)
             {

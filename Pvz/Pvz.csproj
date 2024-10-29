@@ -123,8 +123,4 @@
     </EmbeddedResource>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Entities\Components\" />
-  </ItemGroup>
-
 </Project>

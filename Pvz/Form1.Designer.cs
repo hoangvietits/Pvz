@@ -52,6 +52,8 @@
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             pictureBox1.Paint += Paint;
+            //
+
             // 
             // panel1
             // 
@@ -192,6 +194,8 @@
             ResumeLayout(false);
             PerformLayout();
         }
+
+
 
         #endregion
 
