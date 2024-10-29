@@ -1,0 +1,130 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Sprites\boulet_canon.bmp" />
+    <None Remove="Resources\Sprites\canon.bmp" />
+    <None Remove="Resources\Sprites\cerises.bmp" />
+    <None Remove="Resources\Sprites\cone_1.bmp" />
+    <None Remove="Resources\Sprites\cone_2.bmp" />
+    <None Remove="Resources\Sprites\cone_3.bmp" />
+    <None Remove="Resources\Sprites\decor.jpg" />
+    <None Remove="Resources\Sprites\dollar.png" />
+    <None Remove="Resources\Sprites\gel.bmp" />
+    <None Remove="Resources\Sprites\icone_canon.bmp" />
+    <None Remove="Resources\Sprites\icone_cerises.bmp" />
+    <None Remove="Resources\Sprites\icone_fleur.bmp" />
+    <None Remove="Resources\Sprites\icone_gel.bmp" />
+    <None Remove="Resources\Sprites\icone_mine.bmp" />
+    <None Remove="Resources\Sprites\icone_noix - Copie.bmp" />
+    <None Remove="Resources\Sprites\icone_noix.bmp" />
+    <None Remove="Resources\Sprites\icone_pois.bmp" />
+    <None Remove="Resources\Sprites\icone_pois_double.bmp" />
+    <None Remove="Resources\Sprites\icone_zombie.bmp" />
+    <None Remove="Resources\Sprites\icone_zombie_sot.bmp" />
+    <None Remove="Resources\Sprites\mine_1.bmp" />
+    <None Remove="Resources\Sprites\mine_2.bmp" />
+    <None Remove="Resources\Sprites\noix_1.bmp" />
+    <None Remove="Resources\Sprites\noix_2.bmp" />
+    <None Remove="Resources\Sprites\noix_3.bmp" />
+    <None Remove="Resources\Sprites\plante_gel.bmp" />
+    <None Remove="Resources\Sprites\plante_pois.bmp" />
+    <None Remove="Resources\Sprites\plante_pois_double.bmp" />
+    <None Remove="Resources\Sprites\plante_soleil.bmp" />
+    <None Remove="Resources\Sprites\ProjectilePea.png" />
+    <None Remove="Resources\Sprites\shovel.bmp" />
+    <None Remove="Resources\Sprites\soleil.bmp" />
+    <None Remove="Resources\Sprites\sot_1.bmp" />
+    <None Remove="Resources\Sprites\sot_2.bmp" />
+    <None Remove="Resources\Sprites\sot_3.bmp" />
+    <None Remove="Resources\Sprites\tir_gel.bmp" />
+    <None Remove="Resources\Sprites\tir_pois.bmp" />
+    <None Remove="Resources\Sprites\tondeuse.bmp" />
+    <None Remove="Resources\Sprites\ZombiesWon.jpg" />
+    <None Remove="Resources\Sprites\zombie_1.bmp" />
+    <None Remove="Resources\Sprites\zombie_1_touche.bmp" />
+    <None Remove="Resources\Sprites\zombie_2.bmp" />
+    <None Remove="Resources\Sprites\zombie_2_touche.bmp" />
+    <None Remove="Resources\Sprites\zombie_3.bmp" />
+    <None Remove="Resources\Sprites\zombie_3_touche.bmp" />
+    <None Remove="Resources\Sprites\zombie_cone.bmp" />
+    <None Remove="Resources\Sprites\zombie_dead.bmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Sprites\boulet_canon.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\canon.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\cerises.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\cone_1.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\cone_2.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\cone_3.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\decor.jpg" />
+    <EmbeddedResource Include="Resources\Sprites\dollar.png" />
+    <EmbeddedResource Include="Resources\Sprites\gel.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_canon.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_cerises.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_fleur.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_gel.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_mine.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_noix - Copie.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_noix.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_pois.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_pois_double.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_zombie.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\icone_zombie_sot.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\mine_1.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\mine_2.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\noix_1.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\noix_2.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\noix_3.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\plante_gel.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\plante_pois.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\plante_pois_double.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\plante_soleil.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\ProjectilePea.png" />
+    <EmbeddedResource Include="Resources\Sprites\shovel.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\soleil.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\sot_1.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\sot_2.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\sot_3.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\tir_gel.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\tir_pois.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\tondeuse.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\ZombiesWon.jpg" />
+    <EmbeddedResource Include="Resources\Sprites\zombie_1.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\zombie_1_touche.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\zombie_2.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\zombie_2_touche.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\zombie_3.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\zombie_3_touche.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\zombie_cone.bmp" />
+    <EmbeddedResource Include="Resources\Sprites\zombie_dead.bmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\Components\" />
+  </ItemGroup>
+
+</Project>
