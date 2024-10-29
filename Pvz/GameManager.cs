@@ -15,6 +15,7 @@ namespace Pvz
         static public int Sun;
         static public int Round;
         static public int Score;
+        static public int turn;
         static public double DeltaTime;
 
         static public Creature Button;

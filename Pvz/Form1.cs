@@ -47,17 +47,81 @@ namespace Pvz
 
         void GameLoop(Object sender, EventArgs e)
         {
-            if(ZombieCount == ZombieTotal)
+            if (ZombieCount == ZombieTotal)
             {
                 GameManager.state = GameManager.GameState.win;
             }
-            if(GameManager.state != GameManager.GameState.loose)
+            if (GameManager.state == GameManager.GameState.playing)
             {
                 GameLoop.DoSomeThing();
-               
+                GameManager.turn++;
+                pictureBox1.Invalidate();
+                pictureBox1.Update();
+
+            }
+            if (GameManager.state == GameManager.GameState.loose)
+            {
+                GameManager.Sprites.Get("loose").DrawtoScreen(300, 150);
+                pictureBox1.Invalidate();
+                pictureBox1.Update();
+            }
+            if (GameManager.state == GameManager.GameState.win)
+            {
+                GameManager.Sprites.Get("win").DrawtoScreen(300, 150);
+                pictureBox1.Invalidate();
+                pictureBox1.Update();
             }
         }
-
+        private void Draw()
+        {
+            GameManager.Sprites.Get("decor").DrawtoScreen(0, 0);
+            MainLoop.ShowObj();
+            scoreLabel.Text = "Score: " + GameManager.Score;
+            sunLabel.Text = "Sun: " + GameManager.Sun;
+            roundLabel.Text = "Round: " + GameManager.Round;
+            playerLabel.Text = "Player: " + Player.Name;
         }
-    } 
+        private void Paint(Object sender, PaintEventArgs e)
+        {
+            Timer.PaintFinished();
+        }
+        private void Form1_MouseDown(object sender, MouseEventArgs e)
+        {
+            int y = GameManager.Height - e.Y;
+            Pvz.MouseClick.Event(e.X, y);
+        }
+
+        #region buttons
+        private void button1_Click(object sender, EventArgs e)
+        {
+            GameManager.Button = GameManager.Creature.Pea;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            GameManager.Button = GameManager.Creature.DoublePea;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            GameManager.Button = GameManager.Creature.SunFlower;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            GameManager.Button = GameManager.Creature.Noix;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            GameManager.Button = GameManager.Creature.GelPea;
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            GameManager.Button = GameManager.Creature.Shovel;
+        }
+        #endregion
+    }
 }
+

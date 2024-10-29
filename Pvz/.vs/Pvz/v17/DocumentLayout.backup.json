@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botsunflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botsunflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -301,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MouseClick.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\MouseClick.cs",
               "RelativeDocumentMoniker": "MouseClick.cs",
@@ -366,13 +366,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\GameManager.cs",
               "RelativeDocumentMoniker": "GameManager.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\GameManager.cs",
               "RelativeToolTip": "GameManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T05:31:59.704Z",
               "EditorCaption": ""
@@ -392,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -410,14 +410,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T05:02:23.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BotSunFlower.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSunFlower.cs",
               "RelativeDocumentMoniker": "Entities\\GameObject\\BotSunFlower.cs",

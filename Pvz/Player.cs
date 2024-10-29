@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Pvz
 {
-    class GameLoop
+     class Player
     {
+        static public string Name;
+        static public int Score;
+        static public int Round;
     }
 }
