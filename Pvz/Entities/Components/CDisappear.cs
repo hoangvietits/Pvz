@@ -1,13 +1,14 @@
-﻿using System;
+﻿
+using Pvz.Entities.Components;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pvz.Components
+namespace Pvz.Entities.Components
 {
-     class CDisappear : Component
+    class CDisappear : Component
     {
         public int StartRound;
         public int Delay;
@@ -19,7 +20,7 @@ namespace Pvz.Components
         }
         public override void Update()
         {
-            if(GameManager.turn == StartRound + Delay)
+            if (GameManager.turn == StartRound + Delay)
             {
                 parent.Inactive = true;
             }

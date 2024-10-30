@@ -16,7 +16,7 @@ namespace Pvz.Entities.GameObject
         {
             if(GameManager.turn % 80 ==0)
             {
-                SunEntity sun = new SunEntities(GameManager.Random(300,900), Floor.GetScreenHeight(), GameManager.Random(200,500));
+                SunEntity sun = new SunEntity(GameManager.Random(300,900), Floor.GetScreenHeight(), GameManager.Random(200,500));
                 GameManager.Entities.Add(sun);
 
             }

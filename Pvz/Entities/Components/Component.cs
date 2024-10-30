@@ -5,12 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 using Pvz.Entities;
 
-namespace Pvz.Components
+namespace Pvz.Entities.Components
 {
-    class Component : ICloneable
+    public class Component : ICloneable
     {
         public GameObj parent { get; set; }
-        public virtual void Update() { }
+
+        public virtual void Update()
+        { }
+
         public object Clone()
         {
             return this.MemberwiseClone();

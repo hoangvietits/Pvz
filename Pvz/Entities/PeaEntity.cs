@@ -1,4 +1,4 @@
-﻿using Pvz.Components;
+﻿using Pvz.Entities.Components;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Pvz.Entities
 {
-     class PeaEntity : GameObj
+    class PeaEntity : GameObj
     {
         private CHealth health;
         private CMoveable moveable;

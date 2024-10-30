@@ -1,12 +1,14 @@
-﻿using System;
+﻿
+using Pvz.Entities.Components;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pvz.Components
+namespace Pvz.Entities.Components
 {
-     class CShootable : Component
+    class CShootable : Component
     {
         public int ShootSpeed { get; set; }
         public int ShootDmg { get; set; }
@@ -38,14 +40,14 @@ namespace Pvz.Components
                 offsetY = 65;
                 pea = new PeaEntity(parent.posX + offsetX, parent.posY + offsetY, ShootSpeed, ShootDmg);
                 pea.Tags.Add("SnowPea");
-                pea.GetComponents<CDrawable>().Sprites = new List<string> {"gelBullet" };
+                pea.GetComponent<CDrawable>().Sprites = new List<string> {"gelBullet" };
 
             }
             else
             {
                 offsetY = 51;
                 pea = new PeaEntity(parent.posX + offsetX, parent.posY + offsetY, ShootSpeed, ShootDmg);
-                pea.GetComponents<CDrawable>().Sprites = new List<string> { "bullet" };
+                pea.GetComponent<CDrawable>().Sprites = new List<string> { "bullet" };
 
             }
             GameManager.Entities.Add(pea);

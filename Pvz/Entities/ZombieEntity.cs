@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Pvz.Components;
-
+using Pvz.Entities.Components;
+using Pvz.Entities.GameObject;
 namespace Pvz.Entities
 {
     class ZombieEntity : GameObj
@@ -22,9 +22,9 @@ namespace Pvz.Entities
             Tags.Add("Zombie");
             Bot = new BotZombie(this);
 
-            drawable = AddComponents(new CDrawable()) as CDrawable;
-            moveable = AddComponents(new CMoveable()) as CMoveable;
-            health = AddComponents(new CHealth()) as CHealth;
+            drawable = AddComponent(new CDrawable()) as CDrawable;
+            moveable = AddComponent(new CMoveable()) as CMoveable;
+            health = AddComponent(new CHealth()) as CHealth;
 
             moveable.InitialSpeed = new Point(-20, 0);
             drawable.HitBox = new Size(50, 40);

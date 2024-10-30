@@ -1,23 +1,24 @@
-﻿using System;
+﻿using Pvz.Entities.Components;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pvz.Components
+namespace Pvz.Entities.Components
 {
-     class CHealth : Component
+    class CHealth : Component
     {
         private int initialHP;
         public int HP { get; set; }
 
         public override void Update()
         {
-            if(!isAlive)
+            if (!isAlive)
             {
                 parent.Inactive = true;
             }
-            if(HasBeenHit)
+            if (HasBeenHit)
             {
                 HasBeenHit = false;
             }
