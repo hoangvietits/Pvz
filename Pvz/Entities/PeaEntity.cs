@@ -1,4 +1,5 @@
 ﻿using Pvz.Entities.Components;
+using Pvz.Entities.GameObject;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,8 +19,8 @@ namespace Pvz.Entities
             Bot = new BotPea(this);
             Layer = 3;
 
-            drawable = AddComponents(new CDrawable()) as CDrawable;
-            moveable = AddComponents(new CMoveable()) as CMoveable;
+            drawable = AddComponent(new CDrawable()) as CDrawable;
+            moveable = AddComponent(new CMoveable()) as CMoveable;
         }
     }
 }

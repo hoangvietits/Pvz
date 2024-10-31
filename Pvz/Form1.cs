@@ -4,6 +4,7 @@ using System.Resources;
 using System.Media;
 using System.Drawing.Imaging;
 using System.Net.Http.Headers;
+using Pvz.Entities;
 namespace Pvz
 {
     public partial class Form1 : Form
@@ -14,6 +15,7 @@ namespace Pvz
         static int ZombieTotal = GameManager.Round * 5 + 10;
         Bitmap B;
         System.Windows.Forms.Timer timer1;
+        
         public Form1()
         {
             InitializeComponent();
@@ -21,6 +23,7 @@ namespace Pvz
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            GameManager.state = GameManager.GameState.playing;
             B = new Bitmap(1024, 640, PixelFormat.Format24bppRgb);
             pictureBox1.Image = B;
             GameManager.Monitor = Graphics.FromImage(B);
@@ -39,7 +42,7 @@ namespace Pvz
             timer1.Start();
 
             GameManager.Height = pictureBox1.Height;
-            GameManager.Entities.Add(new SpawnEntity());
+            GameManager.Entities.Add(new SpawnEntities());
 
             soundPlayer = new SoundPlayer(Properties.Resources.grasswalk);
             soundPlayer.Play();
@@ -53,7 +56,9 @@ namespace Pvz
             }
             if (GameManager.state == GameManager.GameState.playing)
             {
-                GameLoop.DoSomeThing();
+                GameManager.DeltaTime = Timer.GetDeltaTime() / 1000;
+                MainLoop.DoSomeThing();
+                Draw();
                 GameManager.turn++;
                 pictureBox1.Invalidate();
                 pictureBox1.Update();
@@ -65,12 +70,12 @@ namespace Pvz
                 pictureBox1.Invalidate();
                 pictureBox1.Update();
             }
-            if (GameManager.state == GameManager.GameState.win)
-            {
-                GameManager.Sprites.Get("win").DrawtoScreen(300, 150);
-                pictureBox1.Invalidate();
-                pictureBox1.Update();
-            }
+            //if (GameManager.state == GameManager.GameState.win)
+            //{
+            //    GameManager.Sprites.Get("Win").DrawtoScreen(300, 150);
+            //    pictureBox1.Invalidate();
+            //    pictureBox1.Update();
+            //}
         }
         private void Draw()
         {
@@ -81,7 +86,8 @@ namespace Pvz
             roundLabel.Text = "Round: " + GameManager.Round;
             playerLabel.Text = "Player: " + Player.Name;
         }
-        private void Paint(Object sender, PaintEventArgs e)
+
+        private void Form_Paint(object sender, PaintEventArgs e)
         {
             Timer.PaintFinished();
         }

@@ -51,9 +51,7 @@
             pictureBox1.Size = new Size(1026, 626);
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
-            pictureBox1.Paint += Paint;
-            //
-
+            pictureBox1.MouseDown += Form1_MouseDown;
             // 
             // panel1
             // 
@@ -189,6 +187,7 @@
             Name = "Form1";
             Text = "Pvz";
             Load += Form1_Load;
+            Paint += Form_Paint;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             panel1.ResumeLayout(false);
             ResumeLayout(false);

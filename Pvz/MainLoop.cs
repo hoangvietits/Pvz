@@ -1,4 +1,5 @@
 ﻿using Pvz.Entities;
+using Pvz.Entities.Components;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,9 +21,9 @@ namespace Pvz
         }
         public static void ShowObj()
         {
-            foreach(GameObj go in GameManager.Entities.OrderBy(x => x.layer))
+            foreach(GameObj go in GameManager.Entities.OrderBy(x => x.Layer))
             {
-                CDrawable drawable = go.GetComponents<CDrawable>();
+                CDrawable drawable = go.GetComponent<CDrawable>();
                 if(drawable != null) 
                 {
                     drawable.Draw();
