@@ -12,7 +12,7 @@ namespace Pvz
         static public SpriteManager Sprites;
         static public Graphics Monitor;
         static public int Height;
-        static public int Sun;
+        static public int Sun = 1000;
         static public int Round;
         static public int Score;
         static public int turn;
@@ -24,7 +24,7 @@ namespace Pvz
         public enum Creature
         {
             Zombie, ZombieCone, ZombieSot, Pea, SunFlower, Noix, DoublePea,
-            GelPea, Shovel, 
+            GelPea, Shovel
         }
         static public Dictionary<Creature, int> Cost = new Dictionary<Creature, int>()
         {
@@ -32,7 +32,7 @@ namespace Pvz
             { Creature.SunFlower,50 },
             { Creature.Noix,50 },
             { Creature.DoublePea,200 },
-            { Creature.GelPea,175},
+            { Creature.GelPea,175}
 
         };
         static public Dictionary<Creature, int> Cooldowns = new Dictionary<Creature, int>()

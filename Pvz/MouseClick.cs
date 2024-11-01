@@ -43,6 +43,10 @@ namespace Pvz
                     {
                         FoundPlant.Inactive = true;
                     }
+                    else if(GameManager.Button == GameManager.Creature.Shovel && FoundPlant == null)
+                    {
+
+                    }
                     else if (FoundPlant == null && GameManager.Cost[GameManager.Button] <= GameManager.Sun)
                     {
                         PlantEntity pe = new PlantEntity(col, range, GameManager.Button);

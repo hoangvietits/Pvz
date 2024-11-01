@@ -15,7 +15,7 @@ namespace Pvz
         static int ZombieTotal = GameManager.Round * 5 + 10;
         Bitmap B;
         System.Windows.Forms.Timer timer1;
-        
+
         public Form1()
         {
             InitializeComponent();
@@ -36,7 +36,7 @@ namespace Pvz
             GameManager.Sprites = new SpriteManager();
 
             timer1 = new System.Windows.Forms.Timer();
-            timer1.Tick +=  new EventHandler(GameLoop);
+            timer1.Tick += new EventHandler(GameLoop);
             timer1.Interval = 50;
             timer1.Enabled = true;
             timer1.Start();
@@ -97,33 +97,34 @@ namespace Pvz
             Pvz.MouseClick.Event(e.X, y);
         }
 
-        #region buttons
-        private void button1_Click(object sender, EventArgs e)
+        #region button
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             GameManager.Button = GameManager.Creature.Pea;
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
             GameManager.Button = GameManager.Creature.DoublePea;
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
             GameManager.Button = GameManager.Creature.SunFlower;
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-            GameManager.Button = GameManager.Creature.Noix;
-        }
-
-        private void button5_Click(object sender, EventArgs e)
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
             GameManager.Button = GameManager.Creature.GelPea;
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void radioButton5_CheckedChanged(object sender, EventArgs e)
+        {
+            GameManager.Button = GameManager.Creature.Noix;
+        }
+
+        private void radioButton6_CheckedChanged(object sender, EventArgs e)
         {
             GameManager.Button = GameManager.Creature.Shovel;
         }

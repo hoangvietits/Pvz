@@ -27,7 +27,7 @@ namespace Pvz
 
         public static int XtoCol(int x)
         {
-            if ((x < xStart) || (x>= xStart + SquareWidth))
+            if ((x < xStart) || (x >= xStart + SquareWidth * 9))
             {
                 return -1;
             }

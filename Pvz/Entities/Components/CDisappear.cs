@@ -16,6 +16,7 @@ namespace Pvz.Entities.Components
         public CDisappear(int delay)
         {
             StartRound = GameManager.turn;
+
             Delay = delay;
         }
         public override void Update()

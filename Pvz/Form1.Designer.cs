@@ -30,12 +30,12 @@
         {
             pictureBox1 = new PictureBox();
             panel1 = new Panel();
-            button3 = new Button();
-            button6 = new Button();
-            button5 = new Button();
-            button4 = new Button();
-            button2 = new Button();
-            button1 = new Button();
+            radioButton6 = new RadioButton();
+            radioButton5 = new RadioButton();
+            radioButton4 = new RadioButton();
+            radioButton3 = new RadioButton();
+            radioButton2 = new RadioButton();
+            radioButton1 = new RadioButton();
             sunLabel = new Label();
             scoreLabel = new Label();
             roundLabel = new Label();
@@ -56,82 +56,100 @@
             // panel1
             // 
             panel1.BackColor = Color.IndianRed;
-            panel1.Controls.Add(button3);
-            panel1.Controls.Add(button6);
-            panel1.Controls.Add(button5);
-            panel1.Controls.Add(button4);
-            panel1.Controls.Add(button2);
-            panel1.Controls.Add(button1);
-            panel1.Location = new Point(283, 610);
+            panel1.Controls.Add(radioButton6);
+            panel1.Controls.Add(radioButton5);
+            panel1.Controls.Add(radioButton4);
+            panel1.Controls.Add(radioButton3);
+            panel1.Controls.Add(radioButton2);
+            panel1.Controls.Add(radioButton1);
+            panel1.Location = new Point(283, 592);
             panel1.Name = "panel1";
-            panel1.Size = new Size(579, 73);
+            panel1.Size = new Size(651, 91);
             panel1.TabIndex = 22;
             // 
-            // button3
+            // radioButton6
             // 
-            button3.BackgroundImage = Properties.Resources.icone_noix;
-            button3.BackgroundImageLayout = ImageLayout.Center;
-            button3.Location = new Point(258, 3);
-            button3.Name = "button3";
-            button3.Size = new Size(85, 67);
-            button3.TabIndex = 6;
-            button3.UseVisualStyleBackColor = true;
-            button3.Click += button3_Click;
+            radioButton6.Appearance = Appearance.Button;
+            radioButton6.BackColor = Color.Transparent;
+            radioButton6.BackgroundImage = Properties.Resources.shovel;
+            radioButton6.BackgroundImageLayout = ImageLayout.Stretch;
+            radioButton6.Location = new Point(553, 11);
+            radioButton6.Name = "radioButton6";
+            radioButton6.Size = new Size(95, 69);
+            radioButton6.TabIndex = 5;
+            radioButton6.TabStop = true;
+            radioButton6.UseVisualStyleBackColor = false;
+            radioButton6.CheckedChanged += radioButton6_CheckedChanged;
             // 
-            // button6
+            // radioButton5
             // 
-            button6.BackgroundImage = Properties.Resources.shovel;
-            button6.BackgroundImageLayout = ImageLayout.Center;
-            button6.Location = new Point(480, 3);
-            button6.Name = "button6";
-            button6.Size = new Size(84, 67);
-            button6.TabIndex = 5;
-            button6.UseVisualStyleBackColor = true;
-            button6.Click += button6_Click;
+            radioButton5.Appearance = Appearance.Button;
+            radioButton5.BackColor = Color.Transparent;
+            radioButton5.BackgroundImage = Properties.Resources.icone_noix;
+            radioButton5.BackgroundImageLayout = ImageLayout.Stretch;
+            radioButton5.Location = new Point(404, 11);
+            radioButton5.Name = "radioButton5";
+            radioButton5.Size = new Size(95, 69);
+            radioButton5.TabIndex = 4;
+            radioButton5.TabStop = true;
+            radioButton5.UseVisualStyleBackColor = false;
+            radioButton5.CheckedChanged += radioButton5_CheckedChanged;
             // 
-            // button5
+            // radioButton4
             // 
-            button5.BackgroundImage = Properties.Resources.icone_gel;
-            button5.BackgroundImageLayout = ImageLayout.Center;
-            button5.Location = new Point(349, 3);
-            button5.Name = "button5";
-            button5.Size = new Size(84, 67);
-            button5.TabIndex = 4;
-            button5.UseVisualStyleBackColor = true;
-            button5.Click += button5_Click;
+            radioButton4.Appearance = Appearance.Button;
+            radioButton4.BackColor = Color.Transparent;
+            radioButton4.BackgroundImage = Properties.Resources.icone_gel;
+            radioButton4.BackgroundImageLayout = ImageLayout.Stretch;
+            radioButton4.Location = new Point(303, 11);
+            radioButton4.Name = "radioButton4";
+            radioButton4.Size = new Size(95, 69);
+            radioButton4.TabIndex = 3;
+            radioButton4.TabStop = true;
+            radioButton4.UseVisualStyleBackColor = false;
+            radioButton4.CheckedChanged += radioButton4_CheckedChanged;
             // 
-            // button4
+            // radioButton3
             // 
-            button4.BackgroundImage = Properties.Resources.icone_fleur;
-            button4.BackgroundImageLayout = ImageLayout.Center;
-            button4.Location = new Point(183, 3);
-            button4.Name = "button4";
-            button4.Size = new Size(69, 67);
-            button4.TabIndex = 3;
-            button4.UseVisualStyleBackColor = true;
-            button4.Click += button4_Click;
+            radioButton3.Appearance = Appearance.Button;
+            radioButton3.BackColor = Color.Transparent;
+            radioButton3.BackgroundImage = Properties.Resources.icone_fleur;
+            radioButton3.BackgroundImageLayout = ImageLayout.Stretch;
+            radioButton3.Location = new Point(202, 11);
+            radioButton3.Name = "radioButton3";
+            radioButton3.Size = new Size(95, 69);
+            radioButton3.TabIndex = 2;
+            radioButton3.TabStop = true;
+            radioButton3.UseVisualStyleBackColor = false;
+            radioButton3.CheckedChanged += radioButton3_CheckedChanged;
             // 
-            // button2
+            // radioButton2
             // 
-            button2.BackgroundImage = Properties.Resources.icone_pois_double;
-            button2.BackgroundImageLayout = ImageLayout.Center;
-            button2.Location = new Point(93, 3);
-            button2.Name = "button2";
-            button2.Size = new Size(84, 67);
-            button2.TabIndex = 1;
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            radioButton2.Appearance = Appearance.Button;
+            radioButton2.BackColor = Color.Transparent;
+            radioButton2.BackgroundImage = Properties.Resources.icone_pois_double;
+            radioButton2.BackgroundImageLayout = ImageLayout.Stretch;
+            radioButton2.Location = new Point(101, 11);
+            radioButton2.Name = "radioButton2";
+            radioButton2.Size = new Size(95, 69);
+            radioButton2.TabIndex = 1;
+            radioButton2.TabStop = true;
+            radioButton2.UseVisualStyleBackColor = false;
+            radioButton2.CheckedChanged += radioButton2_CheckedChanged;
             // 
-            // button1
+            // radioButton1
             // 
-            button1.BackgroundImage = Properties.Resources.icone_pois;
-            button1.BackgroundImageLayout = ImageLayout.Center;
-            button1.Location = new Point(3, 3);
-            button1.Name = "button1";
-            button1.Size = new Size(84, 67);
-            button1.TabIndex = 0;
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            radioButton1.Appearance = Appearance.Button;
+            radioButton1.BackColor = Color.White;
+            radioButton1.BackgroundImage = Properties.Resources.icone_pois;
+            radioButton1.BackgroundImageLayout = ImageLayout.Stretch;
+            radioButton1.Location = new Point(0, 11);
+            radioButton1.Name = "radioButton1";
+            radioButton1.Size = new Size(95, 69);
+            radioButton1.TabIndex = 0;
+            radioButton1.TabStop = true;
+            radioButton1.UseVisualStyleBackColor = false;
+            radioButton1.CheckedChanged += radioButton1_CheckedChanged;
             // 
             // sunLabel
             // 
@@ -200,15 +218,15 @@
 
         private PictureBox pictureBox1;
         private Panel panel1;
-        private Button button6;
-        private Button button5;
-        private Button button4;
-        private Button button2;
-        private Button button1;
-        private Button button3;
         private Label sunLabel;
         private Label scoreLabel;
         private Label roundLabel;
         private Label playerLabel;
+        private RadioButton radioButton6;
+        private RadioButton radioButton5;
+        private RadioButton radioButton4;
+        private RadioButton radioButton3;
+        private RadioButton radioButton2;
+        private RadioButton radioButton1;
     }
 }

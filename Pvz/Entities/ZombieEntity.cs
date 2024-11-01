@@ -18,7 +18,7 @@ namespace Pvz.Entities
 
         public ZombieEntity(int row, GameManager.Creature zombietype)
         {
-            Layer = 3;
+            Layer = 2;
             Tags.Add("Zombie");
             Bot = new BotZombie(this);
 

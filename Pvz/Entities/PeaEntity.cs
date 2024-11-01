@@ -21,6 +21,13 @@ namespace Pvz.Entities
 
             drawable = AddComponent(new CDrawable()) as CDrawable;
             moveable = AddComponent(new CMoveable()) as CMoveable;
+            health = AddComponent(new CHealth()) as CHealth;
+            moveable.Speed = new System.Drawing.Point((int)shootSpeed, 0);
+            health.InitialHP = 1;
+            this.posX = posX;
+            this.posY = posY;
+
+            drawable.HitBox = new System.Drawing.Size(20, 30);
         }
     }
 }

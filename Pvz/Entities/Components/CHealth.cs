@@ -36,10 +36,10 @@ namespace Pvz.Entities.Components
             }
         }
 
-        public void Die()
-        {
-            HP = 0;
-        }
+        //public void Die()
+        //{
+        //    HP = 0;
+        //}
         public bool isAlive
         {
             get { return HP > 0; }

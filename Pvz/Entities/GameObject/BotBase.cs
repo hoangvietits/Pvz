@@ -9,7 +9,7 @@ namespace Pvz.Entities.GameObject
     public class BotBase : ICloneable
     {
         public string botState { get; protected set; }
-        public GameObj AssociatedGameObject { get; protected set; }
+        public GameObj AssociatedGameObject { get; private set; }
         public BotBase(GameObj go)
         {
             botState = "None";

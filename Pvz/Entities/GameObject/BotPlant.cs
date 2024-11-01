@@ -15,7 +15,7 @@ namespace Pvz.Entities.GameObject
         public override void DoSomething()
         {
             botState = "None";
-            if(GameManager.Entities.Find(x => x.GetType() == typeof(ZombieEntity) && Floor.YtoRow((int)x.CorrectedY) == Floor.YtoRow((int)AssociatedGameObject.CorrectedY)) != null)
+            if (GameManager.Entities.Find(x => x.GetType() == typeof(ZombieEntity) && Floor.YtoRow((int)x.CorrectedY) == Floor.YtoRow((int)AssociatedGameObject.CorrectedY)) != null)
             {
                 botState = "Shooting";
             }

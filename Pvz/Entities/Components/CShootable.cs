@@ -17,7 +17,7 @@ namespace Pvz.Entities.Components
 
         public override void Update()
         {
-            if(parent.Bot.botState == "shooting")
+            if(parent.Bot.botState == "Shooting")
             {
                 if(GameManager.turn % 20 == 0)
                 {
@@ -40,14 +40,14 @@ namespace Pvz.Entities.Components
                 offsetY = 65;
                 pea = new PeaEntity(parent.posX + offsetX, parent.posY + offsetY, ShootSpeed, ShootDmg);
                 pea.Tags.Add("SnowPea");
-                pea.GetComponent<CDrawable>().Sprites = new List<string> {"gelBullet" };
+                pea.GetComponent<CDrawable>().Sprites = new List<string> {"gelbullet"};
 
             }
             else
             {
                 offsetY = 51;
                 pea = new PeaEntity(parent.posX + offsetX, parent.posY + offsetY, ShootSpeed, ShootDmg);
-                pea.GetComponent<CDrawable>().Sprites = new List<string> { "bullet" };
+                pea.GetComponent<CDrawable>().Sprites = new List<string> {"bullet"};
 
             }
             GameManager.Entities.Add(pea);

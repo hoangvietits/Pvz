@@ -1,6 +1,7 @@
 ﻿using Pvz.Entities.Components;
 using System;
 using System.Collections.Generic;
+using System.IO.Packaging;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,20 +23,18 @@ namespace Pvz.Entities.GameObject
             AssociatedGameObject.CorrectedY + AssociatedGameObject.GetComponent<CDrawable>().HitBox.Height >= zombie.CorrectedY);
 
            if(foundZombie != null)
-            {
-                AssociatedGameObject.GetComponent<CHealth>().GetDmg(1);
+           {
+               AssociatedGameObject.GetComponent<CHealth>().GetDmg(1);
                 
-                CMoveable zombieMove = foundZombie.GetComponent<CMoveable>();
+               CMoveable zombieMove = foundZombie.GetComponent<CMoveable>();
                 
-                if(AssociatedGameObject.Tags.Contains("gelpea") && zombieMove.Speed == zombieMove.InitialSpeed)
-                {
+               if(AssociatedGameObject.Tags.Contains("SnowPea") && zombieMove.Speed == zombieMove.InitialSpeed)
+               {
                     foundZombie.GetComponent<CDrawable>().Effect = "gel";
                     zombieMove.Speed = new Point(-5, 0);
-
-
-                }
-                foundZombie.GetComponent<CHealth>().GetDmg(10);
-            }
+               }
+               foundZombie.GetComponent<CHealth>().GetDmg(15);
+           }
         }
     }
 }

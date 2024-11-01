@@ -3,64 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botzombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botzombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\chealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\chealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botsunflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botsunflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\cdrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\cdrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botsun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botsun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\mainloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:mainloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botpea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botpea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botnut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botnut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\sunentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\sunentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\spawnentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\spawnentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\plantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\plantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\peaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\peaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\mouseclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:mouseclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\clickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,51 +27,115 @@
       "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\cmoveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\mainloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:mainloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\spritemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:spritemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\f5bf6e2cd5b329bb660f83b2d9c3ca584d0b062b55489471ade684762e54d705\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\cshootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\cshootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\cdrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\cdrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\cdisappear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\cdisappear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\sunentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\sunentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\zombieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\zombieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botzombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botzombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\cdisappear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\cdisappear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botpea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botpea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\plantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\plantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\cshootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\cshootable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\spritemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:spritemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\mouseclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:mouseclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\peaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\peaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botplant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\spawnentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\spawnentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botsunflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botsunflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\SourceServer\\f5bf6e2cd5b329bb660f83b2d9c3ca584d0b062b55489471ade684762e54d705\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botsun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botsun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:pvz.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botnut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botnut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\gameobject\\botspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\gameobject\\botspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,20 +146,8 @@
       "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\entities\\components\\chealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:entities\\components\\chealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|solutionrelative:floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{444A365A-D6A2-4427-9357-1B902B9A85A0}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -355,7 +363,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -371,201 +379,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GameObj.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObj.cs",
-              "RelativeDocumentMoniker": "Entities\\GameObj.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObj.cs",
-              "RelativeToolTip": "Entities\\GameObj.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:23:00.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "PeaEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\PeaEntity.cs",
-              "RelativeDocumentMoniker": "Entities\\PeaEntity.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\PeaEntity.cs",
-              "RelativeToolTip": "Entities\\PeaEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T15:12:07.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PlantEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\PlantEntity.cs",
-              "RelativeDocumentMoniker": "Entities\\PlantEntity.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\PlantEntity.cs",
-              "RelativeToolTip": "Entities\\PlantEntity.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwCkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T02:01:40.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SpawnEntities.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\SpawnEntities.cs",
-              "RelativeDocumentMoniker": "Entities\\SpawnEntities.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\SpawnEntities.cs",
-              "RelativeToolTip": "Entities\\SpawnEntities.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:20:42.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SunEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\SunEntity.cs",
-              "RelativeDocumentMoniker": "Entities\\SunEntity.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\SunEntity.cs",
-              "RelativeToolTip": "Entities\\SunEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:37:12.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BotBase.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotBase.cs",
-              "RelativeDocumentMoniker": "Entities\\GameObject\\BotBase.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotBase.cs",
-              "RelativeToolTip": "Entities\\GameObject\\BotBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:24:02.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BotNut.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotNut.cs",
-              "RelativeDocumentMoniker": "Entities\\GameObject\\BotNut.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotNut.cs",
-              "RelativeToolTip": "Entities\\GameObject\\BotNut.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:29:31.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BotPea.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotPea.cs",
-              "RelativeDocumentMoniker": "Entities\\GameObject\\BotPea.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotPea.cs",
-              "RelativeToolTip": "Entities\\GameObject\\BotPea.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA6wCQAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:30:35.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BotPlant.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotPlant.cs",
-              "RelativeDocumentMoniker": "Entities\\GameObject\\BotPlant.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotPlant.cs",
-              "RelativeToolTip": "Entities\\GameObject\\BotPlant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAawBMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:33:14.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BotSun.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSun.cs",
-              "RelativeDocumentMoniker": "Entities\\GameObject\\BotSun.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSun.cs",
-              "RelativeToolTip": "Entities\\GameObject\\BotSun.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:08:51.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BotSunFlower.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSunFlower.cs",
-              "RelativeDocumentMoniker": "Entities\\GameObject\\BotSunFlower.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSunFlower.cs",
-              "RelativeToolTip": "Entities\\GameObject\\BotSunFlower.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:27:03.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "BotZombie.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotZombie.cs",
               "RelativeDocumentMoniker": "Entities\\GameObject\\BotZombie.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotZombie.cs",
               "RelativeToolTip": "Entities\\GameObject\\BotZombie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T13:11:46.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MouseClick.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\MouseClick.cs",
-              "RelativeDocumentMoniker": "MouseClick.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\MouseClick.cs",
-              "RelativeToolTip": "MouseClick.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAD4vycAAABnAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\GameManager.cs",
+              "RelativeToolTip": "GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwC0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:48:39.405Z",
+              "WhenOpened": "2024-10-29T05:31:59.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "GameObj.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObj.cs",
+              "RelativeDocumentMoniker": "Entities\\GameObj.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObj.cs",
+              "RelativeToolTip": "Entities\\GameObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:02:23.59Z",
+              "WhenOpened": "2024-10-29T05:23:00.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:56:51.678Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-01T04:05:17.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
+              "Title": "MainLoop.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\MainLoop.cs",
+              "RelativeDocumentMoniker": "MainLoop.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\MainLoop.cs",
+              "RelativeToolTip": "MainLoop.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:33:00.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ZombieEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\ZombieEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\ZombieEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\ZombieEntity.cs",
+              "RelativeToolTip": "Entities\\ZombieEntity.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:26:32.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SunEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\SunEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\SunEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\SunEntity.cs",
+              "RelativeToolTip": "Entities\\SunEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:37:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CMoveable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CMoveable.cs",
+              "RelativeDocumentMoniker": "Entities\\Components\\CMoveable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CMoveable.cs",
+              "RelativeToolTip": "Entities\\Components\\CMoveable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:48:35.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Clickable.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\Clickable.cs",
               "RelativeDocumentMoniker": "Entities\\Components\\Clickable.cs",
@@ -578,20 +496,280 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CMoveable.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CMoveable.cs",
-              "RelativeDocumentMoniker": "Entities\\Components\\CMoveable.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CMoveable.cs",
-              "RelativeToolTip": "Entities\\Components\\CMoveable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CDrawable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CDrawable.cs",
+              "RelativeDocumentMoniker": "Entities\\Components\\CDrawable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CDrawable.cs",
+              "RelativeToolTip": "Entities\\Components\\CDrawable.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAD4vyIAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:48:35.08Z",
+              "WhenOpened": "2024-10-29T14:37:54.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CHealth.cs",
+              "RelativeDocumentMoniker": "Entities\\Components\\CHealth.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CHealth.cs",
+              "RelativeToolTip": "Entities\\Components\\CHealth.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:56:04.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CDisappear.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CDisappear.cs",
+              "RelativeDocumentMoniker": "Entities\\Components\\CDisappear.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CDisappear.cs",
+              "RelativeToolTip": "Entities\\Components\\CDisappear.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:00:42.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BotPea.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotPea.cs",
+              "RelativeDocumentMoniker": "Entities\\GameObject\\BotPea.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotPea.cs",
+              "RelativeToolTip": "Entities\\GameObject\\BotPea.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:30:35.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlantEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\PlantEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\PlantEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\PlantEntity.cs",
+              "RelativeToolTip": "Entities\\PlantEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:01:40.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CShootable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CShootable.cs",
+              "RelativeDocumentMoniker": "Entities\\Components\\CShootable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CShootable.cs",
+              "RelativeToolTip": "Entities\\Components\\CShootable.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:03:25.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SpriteManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\SpriteManager.cs",
+              "RelativeDocumentMoniker": "SpriteManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\SpriteManager.cs",
+              "RelativeToolTip": "SpriteManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvzkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:32:23.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MouseClick.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\MouseClick.cs",
+              "RelativeDocumentMoniker": "MouseClick.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\MouseClick.cs",
+              "RelativeToolTip": "MouseClick.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACYAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:48:39.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SpawnEntities.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\SpawnEntities.cs",
+              "RelativeDocumentMoniker": "Entities\\SpawnEntities.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\SpawnEntities.cs",
+              "RelativeToolTip": "Entities\\SpawnEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:20:42.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BotBase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotBase.cs",
+              "RelativeDocumentMoniker": "Entities\\GameObject\\BotBase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotBase.cs",
+              "RelativeToolTip": "Entities\\GameObject\\BotBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:24:02.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BotPlant.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotPlant.cs",
+              "RelativeDocumentMoniker": "Entities\\GameObject\\BotPlant.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotPlant.cs",
+              "RelativeToolTip": "Entities\\GameObject\\BotPlant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:33:14.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Sprite.cs",
+              "RelativeDocumentMoniker": "Sprite.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Sprite.cs",
+              "RelativeToolTip": "Sprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:32:38.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "PeaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\PeaEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\PeaEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\PeaEntity.cs",
+              "RelativeToolTip": "Entities\\PeaEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:12:07.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvz0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:02:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BotSunFlower.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSunFlower.cs",
+              "RelativeDocumentMoniker": "Entities\\GameObject\\BotSunFlower.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSunFlower.cs",
+              "RelativeToolTip": "Entities\\GameObject\\BotSunFlower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:27:03.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:56:51.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ThrowHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\f5bf6e2cd5b329bb660f83b2d9c3ca584d0b062b55489471ade684762e54d705\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\f5bf6e2cd5b329bb660f83b2d9c3ca584d0b062b55489471ade684762e54d705\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\f5bf6e2cd5b329bb660f83b2d9c3ca584d0b062b55489471ade684762e54d705\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\f5bf6e2cd5b329bb660f83b2d9c3ca584d0b062b55489471ade684762e54d705\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAUwAsBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:21:06.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BotSun.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSun.cs",
+              "RelativeDocumentMoniker": "Entities\\GameObject\\BotSun.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSun.cs",
+              "RelativeToolTip": "Entities\\GameObject\\BotSun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:08:51.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Floor.cs",
+              "RelativeDocumentMoniker": "Floor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Floor.cs",
+              "RelativeToolTip": "Floor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwDIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:50:31.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Pvz",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Pvz.csproj",
+              "RelativeDocumentMoniker": "Pvz.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Pvz.csproj",
+              "RelativeToolTip": "Pvz.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T03:09:16.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BotNut.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotNut.cs",
+              "RelativeDocumentMoniker": "Entities\\GameObject\\BotNut.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotNut.cs",
+              "RelativeToolTip": "Entities\\GameObject\\BotNut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:29:31.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "TimeManager.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\TimeManager.cs",
               "RelativeDocumentMoniker": "TimeManager.cs",
@@ -604,97 +782,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CDrawable.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CDrawable.cs",
-              "RelativeDocumentMoniker": "Entities\\Components\\CDrawable.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CDrawable.cs",
-              "RelativeToolTip": "Entities\\Components\\CDrawable.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIA4wCIAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:37:54.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CDisappear.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CDisappear.cs",
-              "RelativeDocumentMoniker": "Entities\\Components\\CDisappear.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CDisappear.cs",
-              "RelativeToolTip": "Entities\\Components\\CDisappear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T15:00:42.613Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MainLoop.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\MainLoop.cs",
-              "RelativeDocumentMoniker": "MainLoop.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\MainLoop.cs",
-              "RelativeToolTip": "MainLoop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:33:00.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T14:13:01.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "BotSpawn.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSpawn.cs",
               "RelativeDocumentMoniker": "Entities\\GameObject\\BotSpawn.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\GameObject\\BotSpawn.cs",
               "RelativeToolTip": "Entities\\GameObject\\BotSpawn.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:22:19.087Z"
+              "WhenOpened": "2024-10-29T14:22:19.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ThrowHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\f5bf6e2cd5b329bb660f83b2d9c3ca584d0b062b55489471ade684762e54d705\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\f5bf6e2cd5b329bb660f83b2d9c3ca584d0b062b55489471ade684762e54d705\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
-              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\SourceServer\\f5bf6e2cd5b329bb660f83b2d9c3ca584d0b062b55489471ade684762e54d705\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\f5bf6e2cd5b329bb660f83b2d9c3ca584d0b062b55489471ade684762e54d705\\src\\libraries\\System.Private.CoreLib\\src\\System\\ThrowHelper.cs",
-              "ViewState": "AgIAAPsAAAAAAAAAAAAuwAsBAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T02:21:06.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SpriteManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\SpriteManager.cs",
-              "RelativeDocumentMoniker": "SpriteManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\SpriteManager.cs",
-              "RelativeToolTip": "SpriteManager.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAYwDkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:32:23.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "Component.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\Component.cs",
               "RelativeDocumentMoniker": "Entities\\Components\\Component.cs",
@@ -702,47 +816,12 @@
               "RelativeToolTip": "Entities\\Components\\Component.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:38:22.744Z"
+              "WhenOpened": "2024-10-29T14:38:22.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CShootable.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CShootable.cs",
-              "RelativeDocumentMoniker": "Entities\\Components\\CShootable.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CShootable.cs",
-              "RelativeToolTip": "Entities\\Components\\CShootable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T15:03:25.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ZombieEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\ZombieEntity.cs",
-              "RelativeDocumentMoniker": "Entities\\ZombieEntity.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\ZombieEntity.cs",
-              "RelativeToolTip": "Entities\\ZombieEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:26:32.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Sprite.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Sprite.cs",
-              "RelativeDocumentMoniker": "Sprite.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Sprite.cs",
-              "RelativeToolTip": "Sprite.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:32:38.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -750,11 +829,12 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:21:18.765Z"
+              "WhenOpened": "2024-10-29T05:21:18.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
@@ -762,58 +842,24 @@
               "RelativeToolTip": "Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T07:24:01.201Z"
+              "WhenOpened": "2024-10-29T07:24:01.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\GameManager.cs",
-              "RelativeDocumentMoniker": "GameManager.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\GameManager.cs",
-              "RelativeToolTip": "GameManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:31:59.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CHealth.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CHealth.cs",
-              "RelativeDocumentMoniker": "Entities\\Components\\CHealth.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Entities\\Components\\CHealth.cs",
-              "RelativeToolTip": "Entities\\Components\\CHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:56:04.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Properties\\Resources.resx",
               "RelativeToolTip": "Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-10-29T15:09:01.342Z"
+              "WhenOpened": "2024-10-29T15:09:01.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Floor.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Floor.cs",
-              "RelativeDocumentMoniker": "Floor.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Floor.cs",
-              "RelativeToolTip": "Floor.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA8wCwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:50:31.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "ZombieWon.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Resources\\ZombieWon.bmp",
               "RelativeDocumentMoniker": "Resources\\ZombieWon.bmp",
@@ -824,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "win.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Resources\\win.bmp",
               "RelativeDocumentMoniker": "Resources\\win.bmp",
@@ -835,7 +881,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "playbutton.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Resources\\playbutton.bmp",
               "RelativeDocumentMoniker": "Resources\\playbutton.bmp",
@@ -846,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "menu2.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Resources\\menu2.bmp",
               "RelativeDocumentMoniker": "Resources\\menu2.bmp",
@@ -857,7 +903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "menu1.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Resources\\menu1.bmp",
               "RelativeDocumentMoniker": "Resources\\menu1.bmp",
@@ -868,7 +914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "menu.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Resources\\menu.bmp",
               "RelativeDocumentMoniker": "Resources\\menu.bmp",
@@ -879,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Pvz.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Pvz.csproj",
               "RelativeDocumentMoniker": "Pvz.csproj",
@@ -891,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "cancelbutton.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\Pvz\\Pvz\\Resources\\cancelbutton.bmp",
               "RelativeDocumentMoniker": "Resources\\cancelbutton.bmp",
@@ -902,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "zombie_3.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_3.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_3.bmp",
@@ -913,7 +959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "zombie_dead.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_dead.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_dead.bmp",
@@ -924,7 +970,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "zombie_2_touche.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_2_touche.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_2_touche.bmp",
@@ -935,7 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "zombie_2.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_2.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_2.bmp",
@@ -946,7 +992,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "zombie_1_touche.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_1_touche.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_1_touche.bmp",
@@ -957,7 +1003,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "zombie_1.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_1.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_1.bmp",
@@ -968,7 +1014,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "zombie_cone.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_cone.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_cone.bmp",
@@ -979,7 +1025,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "zombie_3_touche.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_3_touche.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\zombie_3_touche.bmp",
@@ -990,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "ZombiesWon.jpg",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\ZombiesWon.jpg",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\ZombiesWon.jpg",
@@ -1001,7 +1047,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "tondeuse.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\tondeuse.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\tondeuse.bmp",
@@ -1012,7 +1058,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "tir_pois.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\tir_pois.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\tir_pois.bmp",
@@ -1023,7 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "tir_gel.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\tir_gel.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\tir_gel.bmp",
@@ -1034,7 +1080,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "sot_3.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\sot_3.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\sot_3.bmp",
@@ -1045,7 +1091,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "sot_2.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\sot_2.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\sot_2.bmp",
@@ -1056,7 +1102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "sot_1.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\sot_1.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\sot_1.bmp",
@@ -1067,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "soleil.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\soleil.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\soleil.bmp",
@@ -1078,7 +1124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "shovel.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\shovel.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\shovel.bmp",
@@ -1089,7 +1135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "ProjectilePea.png",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\ProjectilePea.png",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\ProjectilePea.png",
@@ -1100,7 +1146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "plante_soleil.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\plante_soleil.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\plante_soleil.bmp",
@@ -1111,7 +1157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "plante_pois_double.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\plante_pois_double.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\plante_pois_double.bmp",
@@ -1122,7 +1168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "plante_pois.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\plante_pois.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\plante_pois.bmp",
@@ -1133,7 +1179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "plante_gel.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\plante_gel.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\plante_gel.bmp",
@@ -1144,7 +1190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "noix_3.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\noix_3.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\noix_3.bmp",
@@ -1155,7 +1201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 68,
               "Title": "noix_2.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\noix_2.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\noix_2.bmp",
@@ -1166,7 +1212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 69,
               "Title": "noix_1.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\noix_1.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\noix_1.bmp",
@@ -1177,7 +1223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 70,
               "Title": "mine_2.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\mine_2.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\mine_2.bmp",
@@ -1188,7 +1234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 71,
               "Title": "mine_1.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\mine_1.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\mine_1.bmp",
@@ -1199,7 +1245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 72,
               "Title": "icone_zombie_sot.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_zombie_sot.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_zombie_sot.bmp",
@@ -1210,7 +1256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 73,
               "Title": "icone_zombie.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_zombie.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_zombie.bmp",
@@ -1221,7 +1267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 74,
               "Title": "icone_pois_double.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_pois_double.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_pois_double.bmp",
@@ -1232,7 +1278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 75,
               "Title": "icone_pois.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_pois.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_pois.bmp",
@@ -1243,7 +1289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 76,
               "Title": "icone_noix.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_noix.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_noix.bmp",
@@ -1254,7 +1300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 77,
               "Title": "icone_noix - Copie.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_noix - Copie.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_noix - Copie.bmp",
@@ -1265,7 +1311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 78,
               "Title": "icone_mine.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_mine.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_mine.bmp",
@@ -1276,7 +1322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 79,
               "Title": "icone_gel.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_gel.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_gel.bmp",
@@ -1287,7 +1333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 80,
               "Title": "icone_fleur.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_fleur.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_fleur.bmp",
@@ -1298,7 +1344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 81,
               "Title": "icone_cerises.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_cerises.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_cerises.bmp",
@@ -1309,7 +1355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 82,
               "Title": "icone_canon.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_canon.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\icone_canon.bmp",
@@ -1320,7 +1366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 83,
               "Title": "gel.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\gel.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\gel.bmp",
@@ -1331,7 +1377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 84,
               "Title": "dollar.png",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\dollar.png",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\dollar.png",
@@ -1342,7 +1388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 85,
               "Title": "decor.jpg",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\decor.jpg",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\decor.jpg",
@@ -1353,7 +1399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 86,
               "Title": "cone_3.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\cone_3.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\cone_3.bmp",
@@ -1364,7 +1410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 87,
               "Title": "cone_2.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\cone_2.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\cone_2.bmp",
@@ -1375,7 +1421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 88,
               "Title": "cone_1.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\cone_1.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\cone_1.bmp",
@@ -1386,7 +1432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 89,
               "Title": "cerises.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\cerises.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\cerises.bmp",
@@ -1397,7 +1443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 90,
               "Title": "canon.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\canon.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\canon.bmp",
@@ -1408,7 +1454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 91,
               "Title": "boulet_canon.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\boulet_canon.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sprites\\boulet_canon.bmp",
@@ -1419,7 +1465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 92,
               "Title": "sun_picking.wav",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sfx\\sun_picking.wav",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sfx\\sun_picking.wav",
@@ -1430,7 +1476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 93,
               "Title": "seed_planting.wav",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sfx\\seed_planting.wav",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sfx\\seed_planting.wav",
@@ -1441,7 +1487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 94,
               "Title": "sand_picking.wav",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Sfx\\sand_picking.wav",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Sfx\\sand_picking.wav",
@@ -1452,7 +1498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 95,
               "Title": "grasswalk.wav",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\Musics\\grasswalk.wav",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\Musics\\grasswalk.wav",
@@ -1463,7 +1509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 96,
               "Title": "ZombieWon.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\ZombieWon.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\ZombieWon.bmp",
@@ -1474,7 +1520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 97,
               "Title": "win.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\win.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\win.bmp",
@@ -1485,7 +1531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 98,
               "Title": "playbutton.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\playbutton.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\playbutton.bmp",
@@ -1496,7 +1542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 99,
               "Title": "menu2.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\menu2.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\menu2.bmp",
@@ -1507,7 +1553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 100,
               "Title": "menu1.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\menu1.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\menu1.bmp",
@@ -1518,7 +1564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 101,
               "Title": "menu.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\menu.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\menu.bmp",
@@ -1529,7 +1575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 102,
               "Title": "cancelbutton.bmp",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\PvzDB\\Plants_vs_zombies\\Resources\\cancelbutton.bmp",
               "RelativeDocumentMoniker": "..\\..\\PvzDB\\Plants_vs_zombies\\Resources\\cancelbutton.bmp",

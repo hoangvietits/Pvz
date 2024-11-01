@@ -12,7 +12,9 @@ namespace Pvz
     {
         public static void DoSomeThing()
         {
+            
             GameManager.Entities.RemoveAll(x => x.Inactive);
+            
             for (int i = 0; i < GameManager.Entities.ToArray().Length; i++)
             {
                 GameManager.Entities[i].Update();

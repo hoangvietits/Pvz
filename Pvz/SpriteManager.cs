@@ -34,7 +34,7 @@ namespace Pvz
 
 
             SpriteList.Add("pea", new Sprite(Properties.Resources.plante_pois,1.0f));
-            SpriteList.Add("doublePea", new Sprite(Properties.Resources.plante_pois_double,1.0f));
+            SpriteList.Add("doublepea", new Sprite(Properties.Resources.plante_pois_double,1.0f));
             SpriteList.Add("noix_1", new Sprite(Properties.Resources.noix_1,1.0f));
             SpriteList.Add("noix_2", new Sprite(Properties.Resources.noix_2,1.0f));
             SpriteList.Add("noix_3", new Sprite(Properties.Resources.noix_3,1.0f));
