@@ -17,9 +17,14 @@ namespace Pvz
         static public int Score;
         static public int turn;
         static public double DeltaTime;
-
+        static public int zombieTotal = 2;
         static public Creature Button;
         static public GameState state;
+        static public bool Debug;
+        static public string Name;
+        static public string Role;
+        static public bool DrawHitBox { get; set; }
+        static public bool DisplayHP { get; set; }
         public enum GameState { win, loose, playing};
         public enum Creature
         {

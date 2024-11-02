@@ -8,6 +8,7 @@ namespace Pvz.Entities.GameObject
 {
     class BotSpawn : BotBase
     {
+        public int zombiespawned = 0;
         public BotSpawn(GameObj go) : base(go)
         {
         }
@@ -20,10 +21,11 @@ namespace Pvz.Entities.GameObject
                 GameManager.Entities.Add(sun);
 
             }
-            if(GameManager.turn % 120 == 0)
+            if(GameManager.turn % 120 == 0 && zombiespawned <= GameManager.zombieTotal)
             {
                 ZombieEntity zombie = new ZombieEntity(GameManager.Random(0, 4), ZombieEntity.RandomZombie());
                 GameManager.Entities.Add(zombie);
+                zombiespawned++;
             }
         }
     }

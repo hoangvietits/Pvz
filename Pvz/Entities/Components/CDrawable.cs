@@ -34,7 +34,7 @@ namespace Pvz.Entities.Components
             }
             if (parent.GetComponent<CHealth>() != null && parent.GetComponent<CHealth>().HasBeenHit && HitAnimation)
             {
-                GameManager.Sprites.Get(Sprites[stats] + "_touche").DrawtoScreen((parent.posX + parent.offsetX), (parent.posY + parent.offsetY));
+                GameManager.Sprites.Get(Sprites[stats] + "_hit").DrawtoScreen((parent.posX + parent.offsetX), (parent.posY + parent.offsetY));
             }
             else
             {

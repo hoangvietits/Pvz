@@ -11,8 +11,7 @@ namespace Pvz
     {
         static TimeManager Timer;
         static SoundPlayer soundPlayer;
-        static int ZombieCount = 0;
-        static int ZombieTotal = GameManager.Round * 5 + 10;
+        static public bool musicPlaying;
         Bitmap B;
         System.Windows.Forms.Timer timer1;
 
@@ -23,6 +22,28 @@ namespace Pvz
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            if (GameManager.Role == "Admin")
+            {
+                GameManager.Debug = true;
+
+            }
+            else GameManager.Debug = false;
+
+
+            if (GameManager.Debug)
+            {
+                hpBtn.Enabled = true;
+                hitboxBtn.Enabled = true;
+                hitboxBtn.Visible = true;
+                hpBtn.Visible = true;
+            }
+            else
+            {
+                hpBtn.Enabled = false;
+                hitboxBtn.Enabled = false;
+                hitboxBtn.Visible = false;
+                hpBtn.Visible = false;
+            }
             GameManager.state = GameManager.GameState.playing;
             B = new Bitmap(1024, 640, PixelFormat.Format24bppRgb);
             pictureBox1.Image = B;
@@ -46,14 +67,16 @@ namespace Pvz
 
             soundPlayer = new SoundPlayer(Properties.Resources.grasswalk);
             soundPlayer.Play();
+            musicPlaying = true;
         }
 
         void GameLoop(Object myObject, EventArgs myEventArgs)
         {
-            if (ZombieCount == ZombieTotal)
+            if (GameManager.Entities.Count(entity => entity.Tags.Contains("Zombie")) == 0 && GameManager.turn > 200)
             {
                 GameManager.state = GameManager.GameState.win;
             }
+
             if (GameManager.state == GameManager.GameState.playing)
             {
                 GameManager.DeltaTime = Timer.GetDeltaTime() / 1000;
@@ -70,12 +93,12 @@ namespace Pvz
                 pictureBox1.Invalidate();
                 pictureBox1.Update();
             }
-            //if (GameManager.state == GameManager.GameState.win)
-            //{
-            //    GameManager.Sprites.Get("Win").DrawtoScreen(300, 150);
-            //    pictureBox1.Invalidate();
-            //    pictureBox1.Update();
-            //}
+            if (GameManager.state == GameManager.GameState.win)
+            {
+                GameManager.Sprites.Get("Win").DrawtoScreen(300, 150);
+                pictureBox1.Invalidate();
+                pictureBox1.Update();
+            }
         }
         private void Draw()
         {
@@ -84,7 +107,7 @@ namespace Pvz
             scoreLabel.Text = "Score: " + GameManager.Score;
             sunLabel.Text = "Sun: " + GameManager.Sun;
             roundLabel.Text = "Round: " + GameManager.Round;
-            playerLabel.Text = "Player: " + Player.Name;
+            playerLabel.Text = "Player: " + GameManager.Name;
         }
 
         private void Form_Paint(object sender, PaintEventArgs e)
@@ -129,6 +152,30 @@ namespace Pvz
             GameManager.Button = GameManager.Creature.Shovel;
         }
         #endregion
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (musicPlaying)
+            {
+                soundPlayer.Stop();
+                musicPlaying = false;
+            }
+            else
+            {
+                musicPlaying = true;
+                soundPlayer.Play();
+            }
+        }
+
+        private void hpBtn_Click(object sender, EventArgs e)
+        {
+            GameManager.DisplayHP = !GameManager.DisplayHP;
+        }
+
+        private void hitboxBtn_Click(object sender, EventArgs e)
+        {
+            GameManager.DrawHitBox = !GameManager.DrawHitBox;
+        }
     }
 }
 

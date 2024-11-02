@@ -35,6 +35,7 @@ namespace Pvz.Entities.Components
             int offsetX = 48;
             int offsetY;
             PeaEntity pea;
+
             if(parent.Tags.Contains("SnowPea"))
             {
                 offsetY = 65;

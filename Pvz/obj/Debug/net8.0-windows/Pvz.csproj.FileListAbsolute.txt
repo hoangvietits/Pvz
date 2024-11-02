@@ -16,3 +16,12 @@ C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\obj\Debug\net8.0-windows\r
 C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\obj\Debug\net8.0-windows\Pvz.pdb
 C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\obj\Debug\net8.0-windows\Pvz.genruntimeconfig.cache
 C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\obj\Debug\net8.0-windows\ref\Pvz.dll
+C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\obj\Debug\net8.0-windows\Pvz.Form2.resources
+C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\obj\Debug\net8.0-windows\Pvz.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\obj\Debug\net8.0-windows\Pvz.csproj.Up2Date

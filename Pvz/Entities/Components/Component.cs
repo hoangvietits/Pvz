@@ -14,7 +14,7 @@ namespace Pvz.Entities.Components
         public virtual void Update()
         { }
 
-        public object Clone()
+        public object Clone()   
         {
             return this.MemberwiseClone();
         }

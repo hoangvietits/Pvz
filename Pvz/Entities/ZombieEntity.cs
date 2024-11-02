@@ -27,7 +27,7 @@ namespace Pvz.Entities
             health = AddComponent(new CHealth()) as CHealth;
 
             moveable.InitialSpeed = new Point(-20, 0);
-            drawable.HitBox = new Size(50, 40);
+            drawable.HitBox = new Size(50, 94);
             drawable.Sprites = new List<string> { "zombie_1", "zombie_2", "zombie_3", "zombie_2" };
             drawable.Animated = true;
             drawable.HitAnimation = true;
@@ -35,12 +35,12 @@ namespace Pvz.Entities
             switch (zombietype)
             {
                 case (GameManager.Creature.ZombieCone):
-                    health.InitialHP = 250; // Sức khỏe cho ZombieCone
+                    health.InitialHP = 200; // Sức khỏe cho ZombieCone
                     drawable.Accessory = "cone_1"; // Phụ kiện cho ZombieCone
                     score = 15;
                     break;
                 case (GameManager.Creature.ZombieSot):
-                    health.InitialHP = 500; // Sức khỏe cho ZombieSot
+                    health.InitialHP = 250; // Sức khỏe cho ZombieSot
                     drawable.Accessory = "sot_1"; // Phụ kiện cho ZombieSot
                     score = 25;
                     break;

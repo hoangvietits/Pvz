@@ -12,7 +12,13 @@ namespace Pvz
     {
         public static void DoSomeThing()
         {
-            
+            foreach(GameObj entities in GameManager.Entities)
+            {
+                if(entities.Inactive && entities.Tags.Contains("Zombie"))
+                {
+                    GameManager.Score += 15;
+                }
+            }
             GameManager.Entities.RemoveAll(x => x.Inactive);
             
             for (int i = 0; i < GameManager.Entities.ToArray().Length; i++)
@@ -31,6 +37,7 @@ namespace Pvz
                     drawable.Draw();
                 }
             }
+            DebugMode.Update();
         }
     }
 }

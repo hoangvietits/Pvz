@@ -17,7 +17,7 @@ namespace Pvz.Entities.Components
             get { return _initialSpeed; }
             set
             {
-                _initialSpeed = value;
+                this._initialSpeed = value;
                 Speed = value;
             }
         }
