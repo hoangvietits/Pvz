@@ -8,7 +8,7 @@ namespace Pvz.Entities.GameObject
 {
     class BotSpawn : BotBase
     {
-        public int zombiespawned = 0;
+        public static int zombiespawned;
         public BotSpawn(GameObj go) : base(go)
         {
         }

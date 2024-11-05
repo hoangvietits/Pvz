@@ -17,57 +17,26 @@ namespace Pvz
 {
     public partial class Form2 : Form
     {
+        
         public Form2()
         {
             InitializeComponent();
+            
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string username = this.textBox1.Text;
-            string password = this.textBox2.Text;
-            string connection = @"Server = DESKTOP-TU4C4IS\GODMODE; Database = Pvz; Trusted_Connection = True";
-            using (SqlConnection conn = new SqlConnection(connection))
-            {
-                try
-                {
-                    conn.Open();
-                    string query = "SELECT UserName, Score, Round, Role FROM [dbo].Player WHERE Username = @username AND Password = @password";
-                    using (SqlCommand cmd = new SqlCommand(query, conn))
-                    {
-                        cmd.Parameters.AddWithValue("username", username);
-                        cmd.Parameters.AddWithValue("password", password);
-                        var result = cmd.ExecuteReader();
-                        if (result.Read())
-                        {
-                            GameManager.Name = result["UserName"].ToString();
-                            GameManager.Score = Convert.ToInt32(result["Score"]);
-                            GameManager.Round = Convert.ToInt32(result["Round"]);
-                            GameManager.Role = result["Role"].ToString();
-                            LoadMenu(true);
-
-                        }
-                        else
-                        {
-                            MessageBox.Show("Wrong username or password");
-                        }
-                    }
-                }
-                catch (Exception ex)
-                {
-                    MessageBox.Show("Connection Erro");
-                }
-            }
+            LoadMenu(GameManager.Login(textBox1.Text, textBox2.Text));
         }
 
         private void LoadMenu(bool status)
         {
+
             newGameBtn.Enabled = status;
             newGameBtn.Visible = status;
             continueBtn.Enabled = status;
             continueBtn.Visible = status;
-            rankBtn.Enabled = status;
-            rankBtn.Visible = status;
             quitBtn.Enabled = status;
             quitBtn.Visible = status;
             loginPanel.Visible = !status;
@@ -75,12 +44,16 @@ namespace Pvz
         }
         private void button2_Click(object sender, EventArgs e)
         {
+            Form3 form = new Form3();
 
+            form.TopMost = true;
+            form.Show();
         }
 
         private void Form2_Load(object sender, EventArgs e)
         {
             LoadMenu(false);
+            
         }
 
         private void quitBtn_Click(object sender, EventArgs e)
@@ -90,19 +63,41 @@ namespace Pvz
             {
                 Application.Exit();
             }
-            else
-            {
 
-            }
         }
 
         private void newGameBtn_Click(object sender, EventArgs e)
         {
-            GameManager.Round = 1;
-            GameManager.Score = 0;
+            if (GameManager.Round > 1)
+            {
+                DialogResult dia = MessageBox.Show("Your previous results will be reset, are you sure about this?", "Warning", MessageBoxButtons.OKCancel);
+                if (dia == DialogResult.OK)
+                {
+                    GameManager.Round = 1;
+                    GameManager.Score = 0;
+                    CreateF();
+                }
+
+            }
+            else
+            {
+                GameManager.Round = 1;
+                GameManager.Score = 0;
+                CreateF();
+            }
+        }
+
+        private void CreateF()
+        {
             Form1 form1 = new Form1();
+            form1.FormClosed += (s, args) => this.Show();
             this.Hide();
-            form1.ShowDialog();
+            form1.Show();
+        }
+        private void continueBtn_Click(object sender, EventArgs e)
+        {
+            
+            CreateF();
         }
     }
 }

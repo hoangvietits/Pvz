@@ -25,3 +25,4 @@ C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\bin\Debug\net8.0-windows\r
 C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\obj\Debug\net8.0-windows\Pvz.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\obj\Debug\net8.0-windows\Pvz.csproj.Up2Date
+C:\Users\Admin\Desktop\thai binh duong\NNLTNC\Pvz\Pvz\obj\Debug\net8.0-windows\Pvz.Form3.resources

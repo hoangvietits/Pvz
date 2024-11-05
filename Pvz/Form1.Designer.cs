@@ -43,6 +43,8 @@
             hpBtn = new Button();
             hitboxBtn = new Button();
             button3 = new Button();
+            ActionBtn = new Button();
+            menuBtn = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panel1.SuspendLayout();
             SuspendLayout();
@@ -225,11 +227,37 @@
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // ActionBtn
+            // 
+            ActionBtn.BackColor = Color.Salmon;
+            ActionBtn.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            ActionBtn.Location = new Point(519, 383);
+            ActionBtn.Name = "ActionBtn";
+            ActionBtn.Size = new Size(169, 52);
+            ActionBtn.TabIndex = 30;
+            ActionBtn.Text = "Next Round";
+            ActionBtn.UseVisualStyleBackColor = false;
+            ActionBtn.Click += nextBtn_Click;
+            // 
+            // menuBtn
+            // 
+            menuBtn.BackColor = Color.Salmon;
+            menuBtn.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            menuBtn.Location = new Point(330, 383);
+            menuBtn.Name = "menuBtn";
+            menuBtn.Size = new Size(167, 52);
+            menuBtn.TabIndex = 31;
+            menuBtn.Text = "Main Menu";
+            menuBtn.UseVisualStyleBackColor = false;
+            menuBtn.Click += menuBtn_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1038, 684);
+            Controls.Add(menuBtn);
+            Controls.Add(ActionBtn);
             Controls.Add(button3);
             Controls.Add(hitboxBtn);
             Controls.Add(hpBtn);
@@ -268,5 +296,7 @@
         private Button hpBtn;
         private Button hitboxBtn;
         private Button button3;
+        private Button ActionBtn;
+        private Button menuBtn;
     }
 }

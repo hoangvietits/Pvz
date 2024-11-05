@@ -38,7 +38,6 @@
             newGameBtn = new Button();
             continueBtn = new Button();
             quitBtn = new Button();
-            rankBtn = new Button();
             loginPanel.SuspendLayout();
             SuspendLayout();
             // 
@@ -137,29 +136,19 @@
             continueBtn.TabIndex = 2;
             continueBtn.Text = "Continue";
             continueBtn.UseVisualStyleBackColor = false;
+            continueBtn.Click += continueBtn_Click;
             // 
             // quitBtn
             // 
             quitBtn.BackColor = Color.Chocolate;
             quitBtn.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            quitBtn.Location = new Point(812, 358);
+            quitBtn.Location = new Point(812, 317);
             quitBtn.Name = "quitBtn";
             quitBtn.Size = new Size(143, 62);
             quitBtn.TabIndex = 3;
             quitBtn.Text = "Quit";
             quitBtn.UseVisualStyleBackColor = false;
             quitBtn.Click += quitBtn_Click;
-            // 
-            // rankBtn
-            // 
-            rankBtn.BackColor = Color.Bisque;
-            rankBtn.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            rankBtn.Location = new Point(812, 271);
-            rankBtn.Name = "rankBtn";
-            rankBtn.Size = new Size(143, 62);
-            rankBtn.TabIndex = 4;
-            rankBtn.Text = "Ranking";
-            rankBtn.UseVisualStyleBackColor = false;
             // 
             // Form2
             // 
@@ -168,7 +157,6 @@
             BackgroundImage = Properties.Resources.menu;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1046, 646);
-            Controls.Add(rankBtn);
             Controls.Add(quitBtn);
             Controls.Add(continueBtn);
             Controls.Add(newGameBtn);
@@ -193,6 +181,5 @@
         private Button newGameBtn;
         private Button continueBtn;
         private Button quitBtn;
-        private Button rankBtn;
     }
 }

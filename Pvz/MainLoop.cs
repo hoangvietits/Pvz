@@ -12,11 +12,11 @@ namespace Pvz
     {
         public static void DoSomeThing()
         {
-            foreach(GameObj entities in GameManager.Entities)
+            foreach (GameObj entities in GameManager.Entities)
             {
-                if(entities.Inactive && entities.Tags.Contains("Zombie"))
+                if (entities.Inactive && entities.Tags.Contains("Zombie"))
                 {
-                    GameManager.Score += 15;
+                    Form1.gameScore += 15;
                 }
             }
             GameManager.Entities.RemoveAll(x => x.Inactive);
